@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "news",
+        "1": "location",
+        "2": "productivity",
+        "3": "technical",
+        "4": "media"
+    },
+    "demo_page": "https://bubble.io/page?name=index&id=usa-weather",
+    "description": "This plugin was built as a demonstration on how to use server actions as part of a buildcamp community livestream. \n\nFind the community post here 👉 https://community.buildcamp.io/c/announcements/learn-how-to-build-bubble-plugins-with-server-actions",
+    "image": "//s3.amazonaws.com/appforest_uf/f1669990970902x323408500241809000/buildcamp.svg",
+    "license": "open_source",
+    "link": "https://minimum.studio",
+    "name": "USA Weather",
+    "plugin_instructions": "If you need the current forecast for a location:\n\n\n🏃‍♀️ Run the 'Get Current Weather' action\n👍🏻 Use the data returned by the action\n\nIf you need the closest forecast for a specific location + date in the future:\n\n🏃‍♀️ Run the 'Get Closest Weather' action\n👍🏻 Use the data returned by the action\n⚠️ Date must be within 5 days from now\n\nDemo available here 👉🏽 https://bubble.io/page?name=index&id=usa-weather",
+    "sa_node_version": 18
+}
